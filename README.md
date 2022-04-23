@@ -13,4 +13,10 @@ module.exports = {
   run: async function(client, interaction) {
   ```
   
+  ### البكجات المطلوب تنزيلها :
+  
+ ---
+ # discord.js | npm install discord.js@v13
+ # glob | npm install glob
+ # util | npm install util
   ### [Click Here](https://replit.com/@Moriano/Command-Handler#about.md) To Show Replit project.
